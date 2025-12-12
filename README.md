@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mechanical engineer, AI, Computing, Data Communication, fried chicken seller
 ----------------------------------------------------------------------------
 
-I love ice cream very much.
+I love chocolate very much.
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [kittipmn25@gmail.com](mailto:kittipmn25@gmail.com)
