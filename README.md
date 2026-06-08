@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm kittipoom prommanont</h1>
 <h3 align="center">A passionate problem solving and mathematics from Thailand</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kittip1150" alt="kittip1150" /></a> </p>
-
 - 🌱 I’m currently learning **quantitative mathematics**
 
 - 📫 How to reach me **kittipmn25@gmail.com**
